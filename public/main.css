@@ -1,5 +1,5 @@
 .headernav{
-background-color: blue;
+background-color: black;
 overflow: hidden;
 
 }
@@ -23,6 +23,13 @@ color: black;
   background-color: #4CAF50;
   color: white;
 }
+.header {
+  padding: 5px;
+  text-align: center;
+  background: blue;
+  color: white;
+  font-size: 20px;
+}
 
 
 .container {
@@ -36,8 +43,8 @@ html {
 
 body {
     margin: 0 0 100px;
-    /* bottom = footer height */
-    padding: 25px;
+  
+    padding: 5px;
 }
 
 footer {
@@ -53,4 +60,5 @@ footer {
 
 .text {
   text-align: center;
+  text-decoration-color:
 }
